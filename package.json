@@ -2,7 +2,7 @@
   "name": "@vqom/widget-js-sdk",
   "version": "0.0.1",
   "description": "vQom chat widget JavaScript SDK",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "future-station",
   "scripts": {
