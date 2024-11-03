@@ -1,0 +1,8 @@
+# Exclude source files
+src/
+# Exclude config files
+tsconfig.json
+# Exclude tests
+test/
+# Exclude dotfiles
+.*
